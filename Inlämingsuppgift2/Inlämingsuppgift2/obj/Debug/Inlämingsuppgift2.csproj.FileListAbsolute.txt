@@ -1,0 +1,8 @@
+C:\Users\stein\source\repos\Inlämingsuppgift2\Inlämingsuppgift2\bin\Debug\Inlämingsuppgift2.exe.config
+C:\Users\stein\source\repos\Inlämingsuppgift2\Inlämingsuppgift2\bin\Debug\Inlämingsuppgift2.exe
+C:\Users\stein\source\repos\Inlämingsuppgift2\Inlämingsuppgift2\bin\Debug\Inlämingsuppgift2.pdb
+C:\Users\stein\source\repos\Inlämingsuppgift2\Inlämingsuppgift2\obj\Debug\Inlämingsuppgift2.csproj.AssemblyReference.cache
+C:\Users\stein\source\repos\Inlämingsuppgift2\Inlämingsuppgift2\obj\Debug\Inlämingsuppgift2.csproj.SuggestedBindingRedirects.cache
+C:\Users\stein\source\repos\Inlämingsuppgift2\Inlämingsuppgift2\obj\Debug\Inlämingsuppgift2.csproj.CoreCompileInputs.cache
+C:\Users\stein\source\repos\Inlämingsuppgift2\Inlämingsuppgift2\obj\Debug\Inlämingsuppgift2.exe
+C:\Users\stein\source\repos\Inlämingsuppgift2\Inlämingsuppgift2\obj\Debug\Inlämingsuppgift2.pdb

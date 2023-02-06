@@ -1,0 +1,14 @@
+      Namn       Personnummer       Distrikt      Antal Sålda Varor
+
+        cc                 33             cc                      3
+
+        bb                 22             bb                     22
+
+Så här många säljare har nått nivå 1: 2
+        ee                 55             ee                    555
+
+        aa                 11             aa                  11111
+
+        dd                 44             dd                  44444
+
+Så här många säljare har nått nivå 4: 3
